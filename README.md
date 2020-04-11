@@ -24,3 +24,5 @@ This project was done in php using the Laravel framework
 - yarn init
 - yarn run dev
 - php artisan serve
+
+In the images folder there are prints of the project running
