@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 use Illuminate\View\View;
 
 /**
- *
+ * @author Sara Souza
  * Class FrenetController
  * @package App\Http\Controllers
  */
