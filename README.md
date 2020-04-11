@@ -1,4 +1,4 @@
-# frenet
+# Cartesian to Frenet
 
 Frenet coordinates are a way of representing the position on a road in a more intuitive way than traditional Cartesian coordinates (x, y).
 
@@ -7,7 +7,7 @@ With Frenet coordinates we can analyze and predict the behavior of a car, we use
 
 <image src="https://miro.medium.com/max/811/1*5GOl9obKA0Qv4SpxTYkJAQ.png"></image>
 
-# project instructions
+# Project Instructions
 
 This project was done in php using the Laravel framework
 
@@ -15,7 +15,7 @@ This project was done in php using the Laravel framework
 - have an apache server
 - have yarn installed
 
-# commands for build
+# Commands for Build
 
 - php composer-setup.php --install-dir=bin
 - composer global require laravel/installer
