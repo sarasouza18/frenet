@@ -9,7 +9,9 @@ With Frenet coordinates we can analyze and predict the behavior of a car, we use
 
 # project instructions
 
-- have php 7.2 installed
+This project was done in php using the Laravel framework
+
+- have php ^7.2 installed
 - have an apache server
 - have yarn installed
 
